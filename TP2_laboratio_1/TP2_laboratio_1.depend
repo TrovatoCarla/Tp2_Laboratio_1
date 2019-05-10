@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1557498279 source:/home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557495927 /home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/ArrayEmployees.h
+
+1557495927 /home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/funcionesUTN.h
+
+1557495927 /home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/misValid.h
+
+1557495927 source:/home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/funcionesUTN.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557498439 source:/home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557495927 source:/home/carla/TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/misValid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557499552 source:/home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557499552 /home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/ArrayEmployees.h
+
+1557499552 /home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/funcionesUTN.h
+
+1557499552 /home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/misValid.h
+
+1557499552 source:/home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/funcionesUTN.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557499552 source:/home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/misValid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesUTN.h"
+	"misValid.h"
+
+1557500178 source:/home/carla/-TP2_laboratorio_1-/TP2_laboratio_1/TP2_laboratio_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	"funcionesUTN.h"
+	"misValid.h"
+
